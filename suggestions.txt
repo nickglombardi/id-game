@@ -1,0 +1,3 @@
+Traps, require latern to not miss them
+AI don't move if latern down (penalty is sighting is down and can't see traps)
+Another AI that moves even if latern is down, giving more threats
